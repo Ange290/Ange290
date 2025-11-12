@@ -1,4 +1,4 @@
-# Hi there 👋🏽, I’m Ange Uwizera (Ange290)
+# Hi there 👋🏽, I’m Ange Uwizera
 
  
 🔭 I’m a Junior Developer focused on JavaScript and its ecosystem.
@@ -14,16 +14,13 @@
 🌐 Connect with me
 - Email: uange209@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ange-uwizera
-- Discord: uwizeraange
+
 
 ## 📊 GitHub Stats
 
 ![Ange290's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ange290&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ange290&layout=compact&theme=dark)
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ange290&theme=flat)
 
 ---
 Thanks for visiting — feel free to reach out if you want to collaborate!
