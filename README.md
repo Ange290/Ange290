@@ -1,6 +1,9 @@
 # 💫 About Me:
 I'm **Ange Uwizera**, a Junior Developer. I like building web applications and learning how things work behind the scenes. I work with front-end tools like React and back-end tools like Node.js/Express. My goal is to keep learning and become a strong and reliable developer.<br><br> I’m open to collaborating on open source projects — let’s build something useful together!<br> <br>Currently Learning & Focusing On  <br>- Improving my React skills (hooks and better performance)  <br>- Learning backend basics with Node.js and Express  <br>- Learning Typescript <br>
 
+# Views
+![](https://komarev.com/ghpvc/?username=Ange290)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ange.lyka0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ange-uwizera-35923431b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uange209@gmail.com) 
